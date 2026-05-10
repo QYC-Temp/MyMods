@@ -1,0 +1,11 @@
+{
+  "id": "CharacterSkinManager",
+  "name": "CharacterSkinManager",
+  "author": "BiliBili-KawaiNekoMe",
+  "description": "Manage The Character Skin On Runtimes",
+  "version": "v0.0.3",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

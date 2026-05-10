@@ -1,0 +1,11 @@
+{
+  "id": "codex.skip_vakuu",
+  "name": "Skip Vakuu Boon",
+  "author": "Local",
+  "description": "Adds a permanent skip option to Ancient Vakuu's boons, allowing you to skip without receiving any relic.",
+  "version": "0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

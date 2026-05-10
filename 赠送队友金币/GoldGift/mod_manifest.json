@@ -1,0 +1,7 @@
+{
+  "pck_name": "GoldGift",
+  "name": "Gold Gift",
+  "author": "saika0721",
+  "description": "联机时向队友赠送金币。点击队友头像打开详情面板，点 Gift Gold 按钮，输入金额即可赠送，双方金币实时同步。",
+  "version": "1.0.0"
+}

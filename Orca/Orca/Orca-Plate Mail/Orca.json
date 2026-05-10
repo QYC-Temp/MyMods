@@ -1,0 +1,12 @@
+{
+  "id":"Orca-Plate Mail",
+  "pck_name": "Orca-Plate Mail",
+  "name": "银龙奥卡",
+  "author": "独角渡鸦",
+  "description": "将战士替换为银龙Orca，该MOD仅在爱发电发布并更新，B站直接搜作者名就能看到，免费公开，你可以赞助我以支持后续的创作，且赞助时后可以为后续模组制作投票，模组完全免费，如果您在付费整合包一类的东西看到此MOD，请尽量举报退款",
+  "version": "1.5.1",
+  "has_pck": true,
+  "has_dll": false,
+  "affects_gameplay": false,
+  "dependencies": ["CharacterSkinManager"]
+}
