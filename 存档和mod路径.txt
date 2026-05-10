@@ -1,0 +1,2 @@
+存档位置：C:\Users\27808\AppData\Roaming\SlayTheSpire2\steam\xxx
+Mod位置（没有的话自己建一个mods文件夹，可通过steam直接跳到这）：D:\Steam\steamapps\common\Slay the Spire 2\mods
