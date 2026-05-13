@@ -1,0 +1,19 @@
+{
+  "FormatVersion": 1,
+  "PackId": "release-pack-20260513175418",
+  "DisplayName": "CardArtRelease_20260513_175418",
+  "PackType": "MappingPack",
+  "Version": "1.0.0",
+  "Author": "Administrator",
+  "Description": "\u4ECE\u5F53\u524D\u5DF2\u66FF\u6362\u5361\u724C\u7ED3\u679C\u5BFC\u51FA\u7684\u53D1\u5E03\u5305",
+  "Cover": "images/defect/adaptivestrike.png",
+  "EntryRoot": "images",
+  "Tags": [
+    "release-export",
+    "generated"
+  ],
+  "License": "",
+  "Homepage": "",
+  "Priority": 100,
+  "MappingsFile": "mappings/cards.json"
+}

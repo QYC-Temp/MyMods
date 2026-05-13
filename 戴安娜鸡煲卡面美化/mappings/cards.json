@@ -1,0 +1,454 @@
+{
+  "Entries": [
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.AdaptiveStrike",
+      "Image": "images/defect/adaptivestrike.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.AllForOne",
+      "Image": "images/defect/allforone.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.BallLightning",
+      "Image": "images/defect/balllightning.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Barrage",
+      "Image": "images/defect/barrage.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.BeamCell",
+      "Image": "images/defect/beamcell.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.BiasedCognition",
+      "Image": "images/defect/biasedcognition.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.BoostAway",
+      "Image": "images/defect/boostaway.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.BootSequence",
+      "Image": "images/defect/bootsequence.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Buffer",
+      "Image": "images/defect/buffer.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.BulkUp",
+      "Image": "images/defect/bulkup.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Capacitor",
+      "Image": "images/defect/capacitor.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Chaos",
+      "Image": "images/defect/chaos.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.ChargeBattery",
+      "Image": "images/defect/chargebattery.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Chill",
+      "Image": "images/defect/chill.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Claw",
+      "Image": "images/defect/claw.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.ColdSnap",
+      "Image": "images/defect/coldsnap.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Compact",
+      "Image": "images/defect/compact.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.CompileDriver",
+      "Image": "images/defect/compiledriver.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.ConsumingShadow",
+      "Image": "images/defect/consumingshadow.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Coolant",
+      "Image": "images/defect/coolant.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Coolheaded",
+      "Image": "images/defect/coolheaded.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.CreativeAi",
+      "Image": "images/defect/creativeai.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Darkness",
+      "Image": "images/defect/darkness.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.DefendDefect",
+      "Image": "images/defect/defenddefect.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Defragment",
+      "Image": "images/defect/defragment.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.DoubleEnergy",
+      "Image": "images/defect/doubleenergy.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Dualcast",
+      "Image": "images/defect/dualcast.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.EchoForm",
+      "Image": "images/defect/echoform.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.EnergySurge",
+      "Image": "images/defect/energysurge.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Feral",
+      "Image": "images/defect/feral.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.FightThrough",
+      "Image": "images/defect/fightthrough.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.FlakCannon",
+      "Image": "images/defect/flakcannon.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.FocusedStrike",
+      "Image": "images/defect/focusedstrike.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Ftl",
+      "Image": "images/defect/ftl.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Fuel",
+      "Image": "images/token/fuel.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Fusion",
+      "Image": "images/defect/fusion.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.GeneticAlgorithm",
+      "Image": "images/defect/geneticalgorithm.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Glacier",
+      "Image": "images/defect/glacier.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Glasswork",
+      "Image": "images/defect/glasswork.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.GoForTheEyes",
+      "Image": "images/defect/gofortheeyes.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.GunkUp",
+      "Image": "images/defect/gunkup.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Hailstorm",
+      "Image": "images/defect/hailstorm.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.HelixDrill",
+      "Image": "images/defect/helixdrill.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.HiddenGem",
+      "Image": "images/colorless/hiddengem.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Hologram",
+      "Image": "images/defect/hologram.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Hotfix",
+      "Image": "images/defect/hotfix.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Hyperbeam",
+      "Image": "images/defect/hyperbeam.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.IceLance",
+      "Image": "images/defect/icelance.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Ignition",
+      "Image": "images/defect/ignition.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Iteration",
+      "Image": "images/defect/iteration.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Leap",
+      "Image": "images/defect/leap.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.LightningRod",
+      "Image": "images/defect/lightningrod.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Loop",
+      "Image": "images/defect/loop.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.MachineLearning",
+      "Image": "images/defect/machinelearning.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.MeteorStrike",
+      "Image": "images/defect/meteorstrike.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Modded",
+      "Image": "images/defect/modded.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.MomentumStrike",
+      "Image": "images/defect/momentumstrike.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.MultiCast",
+      "Image": "images/defect/multicast.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Null",
+      "Image": "images/defect/null.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Overclock",
+      "Image": "images/defect/overclock.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Quadcast",
+      "Image": "images/defect/quadcast.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Rainbow",
+      "Image": "images/defect/rainbow.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Reboot",
+      "Image": "images/defect/reboot.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Refract",
+      "Image": "images/defect/refract.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.RocketPunch",
+      "Image": "images/defect/rocketpunch.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Scavenge",
+      "Image": "images/defect/scavenge.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Scrape",
+      "Image": "images/defect/scrape.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.ShadowShield",
+      "Image": "images/defect/shadowshield.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Shatter",
+      "Image": "images/defect/shatter.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.SignalBoost",
+      "Image": "images/defect/signalboost.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Skim",
+      "Image": "images/defect/skim.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Smokestack",
+      "Image": "images/defect/smokestack.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Spinner",
+      "Image": "images/defect/spinner.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Storm",
+      "Image": "images/defect/storm.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.StrikeDefect",
+      "Image": "images/defect/strikedefect.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Subroutine",
+      "Image": "images/defect/subroutine.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Sunder",
+      "Image": "images/defect/sunder.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Supercritical",
+      "Image": "images/defect/supercritical.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.SweepingBeam",
+      "Image": "images/defect/sweepingbeam.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Synchronize",
+      "Image": "images/defect/synchronize.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Synthesis",
+      "Image": "images/defect/synthesis.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Tempest",
+      "Image": "images/defect/tempest.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.TeslaCoil",
+      "Image": "images/defect/teslacoil.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Thunder",
+      "Image": "images/defect/thunder.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.TrashToTreasure",
+      "Image": "images/defect/trashtotreasure.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Turbo",
+      "Image": "images/defect/turbo.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Uproar",
+      "Image": "images/defect/uproar.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Voltaic",
+      "Image": "images/defect/voltaic.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.WhiteNoise",
+      "Image": "images/defect/whitenoise.png",
+      "Note": "exported-from-current-replacements"
+    },
+    {
+      "CardId": "MegaCrit.Sts2.Core.Models.Cards.Zap",
+      "Image": "images/defect/zap.png",
+      "Note": "exported-from-current-replacements"
+    }
+  ]
+}

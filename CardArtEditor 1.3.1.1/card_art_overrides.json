@@ -1,0 +1,364 @@
+{
+  "Overrides": [
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.AdaptiveStrike",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\adaptivestrike.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.AllForOne",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\allforone.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.BallLightning",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\balllightning.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Barrage",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\barrage.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.BeamCell",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\beamcell.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.BiasedCognition",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\biasedcognition.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.BoostAway",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\boostaway.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.BootSequence",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\bootsequence.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Buffer",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\buffer.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.BulkUp",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\bulkup.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Capacitor",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\capacitor.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Chaos",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\chaos.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.ChargeBattery",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\chargebattery.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Chill",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\chill.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Claw",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\claw.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.ColdSnap",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\coldsnap.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Compact",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\compact.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.CompileDriver",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\compiledriver.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.ConsumingShadow",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\consumingshadow.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Coolant",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\coolant.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Coolheaded",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\coolheaded.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.CreativeAi",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\creativeai.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Darkness",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\darkness.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.DefendDefect",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\defenddefect.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Defragment",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\defragment.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.DoubleEnergy",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\doubleenergy.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Dualcast",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\dualcast.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.EchoForm",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\echoform.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.EnergySurge",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\energysurge.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Feral",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\feral.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.FightThrough",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\fightthrough.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.FlakCannon",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\flakcannon.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.FocusedStrike",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\focusedstrike.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Ftl",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\ftl.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Fuel",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\token\\fuel.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Fusion",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\fusion.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.GeneticAlgorithm",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\geneticalgorithm.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Glacier",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\glacier.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Glasswork",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\glasswork.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.GoForTheEyes",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\gofortheeyes.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.GunkUp",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\gunkup.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Hailstorm",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\hailstorm.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.HelixDrill",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\helixdrill.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.HiddenGem",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\colorless\\hiddengem.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Hologram",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\hologram.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Hotfix",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\hotfix.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Hyperbeam",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\hyperbeam.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.IceLance",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\icelance.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Ignition",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\ignition.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Iteration",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\iteration.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Leap",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\leap.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.LightningRod",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\lightningrod.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Loop",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\loop.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.MachineLearning",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\machinelearning.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.MeteorStrike",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\meteorstrike.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Modded",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\modded.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.MomentumStrike",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\momentumstrike.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.MultiCast",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\multicast.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Null",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\null.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Overclock",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\overclock.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Quadcast",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\quadcast.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Rainbow",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\rainbow.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Reboot",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\reboot.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Refract",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\refract.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.RocketPunch",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\rocketpunch.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Scavenge",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\scavenge.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Scrape",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\scrape.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.ShadowShield",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\shadowshield.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Shatter",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\shatter.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.SignalBoost",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\signalboost.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Skim",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\skim.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Smokestack",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\smokestack.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Spinner",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\spinner.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Storm",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\storm.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.StrikeDefect",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\strikedefect.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Subroutine",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\subroutine.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Sunder",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\sunder.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Supercritical",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\supercritical.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.SweepingBeam",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\sweepingbeam.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Synchronize",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\synchronize.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Synthesis",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\synthesis.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Tempest",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\tempest.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.TeslaCoil",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\teslacoil.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Thunder",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\thunder.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.TrashToTreasure",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\trashtotreasure.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Turbo",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\turbo.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Uproar",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\uproar.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Voltaic",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\voltaic.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.WhiteNoise",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\whitenoise.png"
+    },
+    {
+      "Target": "MegaCrit.Sts2.Core.Models.Cards.Zap",
+      "ImagePath": "D:\\Steam\\steamapps\\common\\Slay the Spire 2\\mods\\\u6234\u5B89\u5A1C\u9E21\u7172\u5361\u9762\u7F8E\u5316\\images\\defect\\zap.png"
+    }
+  ]
+}

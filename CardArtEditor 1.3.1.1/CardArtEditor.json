@@ -1,0 +1,11 @@
+{
+  "id": "CardArtEditor",
+  "name": "CardArtEditor",
+  "author": "惜梦yy",
+  "description": "卡牌管理器",
+  "version": "v1.3.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
