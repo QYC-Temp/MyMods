@@ -1,0 +1,5 @@
+{
+  "ostyCombatInitialScale": 1.0,
+  "ostyCombatScaleWithHealth": true,
+  "ostyCombatMaxScale": 2.0
+}

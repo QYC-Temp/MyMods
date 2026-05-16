@@ -1,0 +1,11 @@
+{
+  "id": "RestSiteFondleCursorMod",
+  "pck_name": "RestSiteFondleCursorMod",
+  "name": "Rest Site Fondle Cursor Mod",
+  "author": "Linko&Huiyu",
+  "description": "Changes the cursor to a custom fondle icon when the mouse hovers over the upper half of a character in the campfire scene.",
+  "version": "1.2.0",
+  "has_dll": true,
+  "has_pck": true,
+  "affects_gameplay": false
+}

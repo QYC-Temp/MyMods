@@ -1,0 +1,11 @@
+{
+  "id": "NecrobinderOstyVisualsMod",
+  "pck_name": "NecrobinderOstyVisualsMod",
+  "name": "Necrobinder Osty Visuals Mod",
+  "author": "Linko&Huiyu",
+  "description": "影之诗奥契丝与洛伊德替换亡灵契约师与奥斯提皮肤模组",
+  "version": "1.2.1",
+  "has_dll": true,
+  "has_pck": true,
+  "affects_gameplay": false
+}

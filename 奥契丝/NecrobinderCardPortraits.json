@@ -1,0 +1,11 @@
+{
+  "id": "NecrobinderCardPortraits",
+  "pck_name": "NecrobinderCardPortraits",
+  "name": "Necrobinder Card Portraits",
+  "author": "Linko&Huiyu",
+  "description": "影之诗奥契丝与洛伊德亡灵契约师卡图美化模组",
+  "version": "1.0.0",
+  "has_dll": true,
+  "has_pck": true,
+  "affects_gameplay": false
+}

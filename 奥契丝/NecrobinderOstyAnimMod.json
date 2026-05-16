@@ -1,0 +1,10 @@
+{
+  "id": "NecrobinderOstyAnimMod",
+  "name": "Necrobinder Osty Anim Mod",
+  "author": "Linko&Huiyu",
+  "description": "When Necrobinder plays an attack animation, Osty also plays an attack animation if Osty is alive.",
+  "version": "1.2.0",
+  "has_dll": true,
+  "has_pck": false,
+  "affects_gameplay": false
+}
